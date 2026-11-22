@@ -1,0 +1,17 @@
+# Uploaded user files
+/uploads/avatars/*
+
+# Temporary files
+/test_db.php
+
+# Environment and secret files
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
